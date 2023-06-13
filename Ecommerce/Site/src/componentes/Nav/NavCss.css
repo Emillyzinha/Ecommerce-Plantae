@@ -1,0 +1,7 @@
+.bg-navBar {
+    background-image: url('../../assets/navBar.png');
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 80px;
+  }
